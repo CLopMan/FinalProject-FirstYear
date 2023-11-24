@@ -14,5 +14,5 @@ If you have a newer version of python (e.g. python 3.10) this project may not wo
 3. Run your virtual enviroment: (from the project's directory) `. myenv/bin/activate`. 
   - Now you should have activated the virtual enviroment. You can checkit by looking at the command line, it must look like `(myenv) user@path$`
 4. install pyxel: `pip install pyxel==1.4.3`
-5. Run main.py: `python main.py`
+5. Run main.py: `python3.8 main.py`
 
